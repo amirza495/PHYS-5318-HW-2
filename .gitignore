@@ -1,0 +1,9 @@
+*.aux
+*.asv
+*.log
+*.pdf
+*.gz
+*.tex
+*.xlsx
+
+img/
